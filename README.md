@@ -1,2 +1,2 @@
-# weatherapp.github.io
+# weatherapp
 WeatherApp website.
